@@ -1,12 +1,13 @@
 import React from 'react'
 import { ExchangeRatesType } from '../../utils'
+import { Cell, RightCell, Row, Table } from './Styled'
 
 type Props = {
   table: ExchangeRatesType
 }
 
 export const ExchangeRateTable: React.FC<Props> = ({ table }) => (
-  <table>
+  <Table>
     <thead>
       <tr>
         <th>Country</th>
@@ -16,16 +17,23 @@ export const ExchangeRateTable: React.FC<Props> = ({ table }) => (
       </tr>
     </thead>
     <tbody>
-      {table.rates.map(({ country, currency, iso, amount, rate }) => (
-        <tr>
-          <td>{country}</td>
-          <td>
+      {table.rates.map(({ country, currency, iso, amount, rate }, index) => (
+        <Row key={`row_${iso}`} odd={index % 2}>
+          <Cell>{country}</Cell>
+          <Cell>
             {currency} ({iso})
-          </td>
-          <td>{amount}</td>
-          <td>{rate} CZK</td>
-        </tr>
+          </Cell>
+          <RightCell>{amount}</RightCell>
+          <RightCell>{rate} CZK</RightCell>
+        </Row>
       ))}
     </tbody>
-  </table>
+    {table.date && (
+      <tfoot>
+        <tr>
+          <Cell colSpan={4}>Courses are actual to {table.date?.toLocaleDateString()}</Cell>
+        </tr>
+      </tfoot>
+    )}
+  </Table>
 )

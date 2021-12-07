@@ -1,15 +1,4 @@
-export type RateType = {
-  country: string
-  currency: string
-  amount: number
-  iso: string
-  rate: number
-}
-
-export type ExchangeRatesType = {
-  date?: Date
-  rates: RateType[]
-}
+import { ExchangeRatesType, RateType } from '../types'
 
 export const parse = (raw: string): ExchangeRatesType => {
   const rows = raw.split('\n')

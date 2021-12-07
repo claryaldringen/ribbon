@@ -1,9 +1,1736 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders learn react link 1`] = `
+exports[`Given an App component should render with all data and match the snapshot: Loaded 1`] = `
 <div>
-  <div>
-    Loading...
+  <div
+    class="container"
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="col-md-6"
+      >
+        <table
+          class="sc-bdvvtL kXQZtF"
+        >
+          <thead>
+            <tr>
+              <th>
+                Country
+              </th>
+              <th>
+                Currency (ISO)
+              </th>
+              <th>
+                Amount
+              </th>
+              <th>
+                Rate
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Austrálie
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                dolar
+                 (
+                AUD
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                15.885
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Brazílie
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                real
+                 (
+                BRL
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                3.991
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Bulharsko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                lev
+                 (
+                BGN
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                12.996
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Čína
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                žen-min-pi
+                 (
+                CNY
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                3.533
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Dánsko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                koruna
+                 (
+                DKK
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                3.418
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                EMU
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                euro
+                 (
+                EUR
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                25.415
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Filipíny
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                peso
+                 (
+                PHP
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                100
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                44.55
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Hongkong
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                dolar
+                 (
+                HKD
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                2.888
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Chorvatsko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                kuna
+                 (
+                HRK
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                3.377
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Indie
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                rupie
+                 (
+                INR
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                100
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                29.953
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Indonesie
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                rupie
+                 (
+                IDR
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1000
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1.563
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Island
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                koruna
+                 (
+                ISK
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                100
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                17.313
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Izrael
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                nový šekel
+                 (
+                ILS
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                7.127
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Japonsko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                jen
+                 (
+                JPY
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                100
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                19.861
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Jižní Afrika
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                rand
+                 (
+                ZAR
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1.416
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Kanada
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                dolar
+                 (
+                CAD
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                17.563
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Korejská republika
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                won
+                 (
+                KRW
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                100
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1.905
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Maďarsko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                forint
+                 (
+                HUF
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                100
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                6.985
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Malajsie
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                ringgit
+                 (
+                MYR
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                5.32
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Mexiko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                peso
+                 (
+                MXN
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1.06
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                MMF
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                ZPČ
+                 (
+                XDR
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                31.524
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Norsko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                koruna
+                 (
+                NOK
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                2.47
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Nový Zéland
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                dolar
+                 (
+                NZD
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                15.281
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Polsko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                zlotý
+                 (
+                PLN
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                5.534
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Rumunsko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                leu
+                 (
+                RON
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                5.135
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Rusko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                rubl
+                 (
+                RUB
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                100
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                30.612
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Singapur
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                dolar
+                 (
+                SGD
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                16.432
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Švédsko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                koruna
+                 (
+                SEK
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                2.463
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Švýcarsko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                frank
+                 (
+                CHF
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                24.468
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Thajsko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                baht
+                 (
+                THB
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                100
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                66.446
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Turecko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                lira
+                 (
+                TRY
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1.628
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                USA
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                dolar
+                 (
+                USD
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                22.509
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Velká Británie
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                libra
+                 (
+                GBP
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                29.883
+                 CZK
+              </td>
+            </tr>
+          </tbody>
+          <tfoot>
+            <tr>
+              <td
+                class="sc-dkPtRN kIfIDc"
+                colspan="4"
+              >
+                Courses are actual to 
+                12/3/2021
+              </td>
+            </tr>
+          </tfoot>
+        </table>
+      </div>
+      <div
+        class="col-md-6"
+      >
+        <div
+          class="sc-eCImPb cFJUin row"
+        >
+          <div
+            class="col-md-6 sc-jRQBWg hxWtYO"
+          >
+            <label
+              for="amount_czk"
+            >
+              Amount (CZK): 
+            </label>
+          </div>
+          <div
+            class="col-md-6"
+          >
+            <input
+              id="amount_czk"
+              min="0"
+              type="number"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-eCImPb cFJUin row"
+        >
+          <div
+            class="col-md-6 sc-jRQBWg hxWtYO"
+          >
+            <label
+              for="currency"
+            >
+              Target currency: 
+            </label>
+          </div>
+          <div
+            class="col-md-6"
+          >
+            <select
+              id="currency"
+            >
+              <option
+                value="AUD"
+              >
+                dolar (AUD)
+              </option>
+              <option
+                value="BRL"
+              >
+                real (BRL)
+              </option>
+              <option
+                value="BGN"
+              >
+                lev (BGN)
+              </option>
+              <option
+                value="CNY"
+              >
+                žen-min-pi (CNY)
+              </option>
+              <option
+                value="DKK"
+              >
+                koruna (DKK)
+              </option>
+              <option
+                value="EUR"
+              >
+                euro (EUR)
+              </option>
+              <option
+                value="PHP"
+              >
+                peso (PHP)
+              </option>
+              <option
+                value="HKD"
+              >
+                dolar (HKD)
+              </option>
+              <option
+                value="HRK"
+              >
+                kuna (HRK)
+              </option>
+              <option
+                value="INR"
+              >
+                rupie (INR)
+              </option>
+              <option
+                value="IDR"
+              >
+                rupie (IDR)
+              </option>
+              <option
+                value="ISK"
+              >
+                koruna (ISK)
+              </option>
+              <option
+                value="ILS"
+              >
+                nový šekel (ILS)
+              </option>
+              <option
+                value="JPY"
+              >
+                jen (JPY)
+              </option>
+              <option
+                value="ZAR"
+              >
+                rand (ZAR)
+              </option>
+              <option
+                value="CAD"
+              >
+                dolar (CAD)
+              </option>
+              <option
+                value="KRW"
+              >
+                won (KRW)
+              </option>
+              <option
+                value="HUF"
+              >
+                forint (HUF)
+              </option>
+              <option
+                value="MYR"
+              >
+                ringgit (MYR)
+              </option>
+              <option
+                value="MXN"
+              >
+                peso (MXN)
+              </option>
+              <option
+                value="XDR"
+              >
+                ZPČ (XDR)
+              </option>
+              <option
+                value="NOK"
+              >
+                koruna (NOK)
+              </option>
+              <option
+                value="NZD"
+              >
+                dolar (NZD)
+              </option>
+              <option
+                value="PLN"
+              >
+                zlotý (PLN)
+              </option>
+              <option
+                value="RON"
+              >
+                leu (RON)
+              </option>
+              <option
+                value="RUB"
+              >
+                rubl (RUB)
+              </option>
+              <option
+                value="SGD"
+              >
+                dolar (SGD)
+              </option>
+              <option
+                value="SEK"
+              >
+                koruna (SEK)
+              </option>
+              <option
+                value="CHF"
+              >
+                frank (CHF)
+              </option>
+              <option
+                value="THB"
+              >
+                baht (THB)
+              </option>
+              <option
+                value="TRY"
+              >
+                lira (TRY)
+              </option>
+              <option
+                value="USD"
+              >
+                dolar (USD)
+              </option>
+              <option
+                value="GBP"
+              >
+                libra (GBP)
+              </option>
+            </select>
+          </div>
+        </div>
+        <div
+          class="sc-eCImPb cFJUin row"
+        >
+          <div
+            class="col-md-12 sc-gKclnd jvHeMl"
+          >
+            <button
+              disabled=""
+            >
+              Convert
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Given an App component should render with all data and match the snapshot: Loading 1`] = `
+<div>
+  <div
+    aria-busy="true"
+    class="sc-iCfMLu exHVKm"
+  >
+    <svg
+      aria-label="audio-loading"
+      enable-background="new 0 0 100 100"
+      height="80"
+      id="L2"
+      version="1.1"
+      viewBox="0 0 100 100"
+      width="80"
+      x="0px"
+      xml:space="preserve"
+      xmlns="http://www.w3.org/2000/svg"
+      y="0px"
+    >
+      <circle
+        cx="50"
+        cy="50"
+        fill="none"
+        r="48"
+        stroke="black"
+        stroke-miterlimit="10"
+        stroke-width="4"
+      />
+      <line
+        fill="none"
+        stroke="black"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        stroke-width="4"
+        x1="50"
+        x2="85"
+        y1="50"
+        y2="50.5"
+      >
+        <animatetransform
+          attributeName="transform"
+          dur="2s"
+          from="0 50 50"
+          repeatCount="indefinite"
+          to="360 50 50"
+          type="rotate"
+        />
+      </line>
+      <line
+        fill="none"
+        stroke="black"
+        stroke-linecap="round"
+        stroke-miterlimit="10"
+        stroke-width="4"
+        x1="50"
+        x2="49.5"
+        y1="50"
+        y2="74"
+      >
+        <animatetransform
+          attributeName="transform"
+          dur="15s"
+          from="0 50 50"
+          repeatCount="indefinite"
+          to="360 50 50"
+          type="rotate"
+        />
+      </line>
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`Given an App component should render with broken data and match the snapshot 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="row"
+    >
+      <div
+        class="col-md-6"
+      >
+        <table
+          class="sc-bdvvtL kXQZtF"
+        >
+          <thead>
+            <tr>
+              <th>
+                Country
+              </th>
+              <th>
+                Currency (ISO)
+              </th>
+              <th>
+                Amount
+              </th>
+              <th>
+                Rate
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Austrálie
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                dolar
+                 (
+                AUD
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                15.885
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Brazílie
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                real
+                 (
+                BRL
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                3.991
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Čína
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                žen-min-pi
+                 (
+                CNY
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                NaN
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Dánsko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                
+                 (
+                DKK
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                3.418
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                EMU
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                euro
+                 (
+                EUR
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                25.415
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Filipíny
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                peso
+                 (
+                PHP
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                100
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                44.55
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Hongkong
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                dolar
+                 (
+                
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                2.888
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Chorvatsko
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                kuna
+                 (
+                HRK
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                1
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                3.377
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ hnuwEb"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Indie
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                rupie
+                 (
+                INR
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                100
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                29.953
+                 CZK
+              </td>
+            </tr>
+            <tr
+              class="sc-gsDKAQ dScwxT"
+            >
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                Island
+              </td>
+              <td
+                class="sc-dkPtRN kIfIDc"
+              >
+                koruna
+                 (
+                ISK
+                )
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                NaN
+              </td>
+              <td
+                class="sc-dkPtRN sc-hKwDye kIfIDc eTmEvh"
+              >
+                17.313
+                 CZK
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div
+        class="col-md-6"
+      >
+        <div
+          class="sc-eCImPb cFJUin row"
+        >
+          <div
+            class="col-md-6 sc-jRQBWg hxWtYO"
+          >
+            <label
+              for="amount_czk"
+            >
+              Amount (CZK): 
+            </label>
+          </div>
+          <div
+            class="col-md-6"
+          >
+            <input
+              id="amount_czk"
+              min="0"
+              type="number"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-eCImPb cFJUin row"
+        >
+          <div
+            class="col-md-6 sc-jRQBWg hxWtYO"
+          >
+            <label
+              for="currency"
+            >
+              Target currency: 
+            </label>
+          </div>
+          <div
+            class="col-md-6"
+          >
+            <select
+              id="currency"
+            >
+              <option
+                value="AUD"
+              >
+                dolar (AUD)
+              </option>
+              <option
+                value="BRL"
+              >
+                real (BRL)
+              </option>
+              <option
+                value="CNY"
+              >
+                žen-min-pi (CNY)
+              </option>
+              <option
+                value="DKK"
+              >
+                 (DKK)
+              </option>
+              <option
+                value="EUR"
+              >
+                euro (EUR)
+              </option>
+              <option
+                value="PHP"
+              >
+                peso (PHP)
+              </option>
+              <option
+                value=""
+              >
+                dolar ()
+              </option>
+              <option
+                value="HRK"
+              >
+                kuna (HRK)
+              </option>
+              <option
+                value="INR"
+              >
+                rupie (INR)
+              </option>
+              <option
+                value="ISK"
+              >
+                koruna (ISK)
+              </option>
+            </select>
+          </div>
+        </div>
+        <div
+          class="sc-eCImPb cFJUin row"
+        >
+          <div
+            class="col-md-12 sc-gKclnd jvHeMl"
+          >
+            <button
+              disabled=""
+            >
+              Convert
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Given an App component should render with no data and match the snapshot 1`] = `
+<div>
+  <div
+    class="sc-furwcr dvSciW"
+  >
+    An error has occurred during loading exchange rate list:
+    <br />
+    <b>
+      Downloaded daily exchange rates can not be parsed.
+    </b>
+    <br />
+    <br />
+    Don't worry, you can still buy some Bitcoin.
+  </div>
+</div>
+`;
+
+exports[`Given an App component should try 3 times render with error and match the snapshot 1`] = `
+<div>
+  <div
+    class="sc-furwcr dvSciW"
+  >
+    An error has occurred during loading exchange rate list:
+    <br />
+    <b>
+      Test error
+    </b>
+    <br />
+    <br />
+    Don't worry, you can still buy some Bitcoin.
   </div>
 </div>
 `;
