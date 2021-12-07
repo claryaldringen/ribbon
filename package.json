@@ -16,8 +16,10 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "query": "^0.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-query": "^3.34.0",
     "react-scripts": "4.0.3",
     "typescript": "^4.5.2",
     "web-vitals": "^1.0.1"
@@ -25,11 +27,21 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.5.0",
     "@typescript-eslint/parser": "^5.5.0",
-    "eslint": "^8.4.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-jest": "^25.3.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "jest": "^27.4.3",
     "prettier": "^2.5.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
