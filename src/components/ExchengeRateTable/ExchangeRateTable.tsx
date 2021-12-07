@@ -1,5 +1,5 @@
 import React from 'react'
-import { ExchangeRatesType } from '../../utils'
+import { ExchangeRatesType } from '../../types'
 import { Cell, RightCell, Row, Table } from './Styled'
 
 type Props = {
